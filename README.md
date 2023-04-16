@@ -13,6 +13,11 @@
 4.![Dashboard pic](https://user-images.githubusercontent.com/103982094/213697049-8a38867a-a22d-437e-96fb-7e707b500e7b.png)
 ![Dashboard Image](https://user-images.githubusercontent.com/103982094/219427635-5d1e5ea6-cefb-4bf3-b8ea-4ee469f7fc8c.png)
 
-|Daywise| Project Blog |
+|No.| Project Blog |
 |-|-|
-|Day1 (HR Analytics Dashboard) | [Explanation Link](https://www.linkedin.com/posts/sachintukumar_powerbi-skills-powerbijobs-activity-7021859405650407424-dtFu?utm_source=share&utm_medium=member_desktop)
+|1 (HR Analytics Dashboard) | [Explanation Link](https://www.linkedin.com/posts/sachintukumar_powerbi-skills-powerbijobs-activity-7021859405650407424-dtFu?utm_source=share&utm_medium=member_desktop)
+|2 (Finance Dashboard)  |   [Explanation Link](https://www.linkedin.com/posts/sachintukumar_powerbi-powerbijobs-powerbidevelopers-activity-7022186181073199104-m-sM?utm_source=share&utm_medium=member_desktop)
+|3 ( Sales Report Dashboard) | [Explanation Link](https://www.linkedin.com/posts/sachintukumar_powerbi-dashboard-business-activity-7027655153386172417-yW9h?utm_source=share&utm_medium=member_desktop)
+|4 (IT Expenditure Dashboard ) | [Explanation Link](https://www.linkedin.com/posts/sachintukumar_powerbi-dashboard-business-activity-7027999034212593664-Gffz?utm_source=share&utm_medium=member_desktop)
+|5 (Store Analysis #Dashboard ) | [Explanation Link](https://www.linkedin.com/posts/sachintukumar_powerbi-dashboard-solution-activity-7031974850705408000-P0Ld?utm_source=share&utm_medium=member_desktop)
+|6 (America Retail Analysis Dashboard) | [Explanation Link](https://www.linkedin.com/posts/sachintukumar_powerbi-america-decisions-activity-7032350693491392512-Wv-z?utm_source=share&utm_medium=member_desktop)
