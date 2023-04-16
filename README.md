@@ -12,3 +12,7 @@
 3.![Screenshot (24)](https://user-images.githubusercontent.com/103982094/213265552-3cf7c915-aded-4c97-9f5e-0a39f9e349a5.png)
 4.![Dashboard pic](https://user-images.githubusercontent.com/103982094/213697049-8a38867a-a22d-437e-96fb-7e707b500e7b.png)
 ![Dashboard Image](https://user-images.githubusercontent.com/103982094/219427635-5d1e5ea6-cefb-4bf3-b8ea-4ee469f7fc8c.png)
+
+|Daywise| Project Blog |
+|-|-|
+|Day1 (HR Analytics Dashboard) | [Explanation Link](https://www.linkedin.com/posts/sachintukumar_powerbi-skills-powerbijobs-activity-7021859405650407424-dtFu?utm_source=share&utm_medium=member_desktop)
